@@ -1,0 +1,11 @@
+site,id,lat,long,animal,sample_type,num_samples
+Hunter Valley,huntervalley,-32.714831,151.504645,dog,faecal,30
+Coffs Harbour,coffsharbour,-30.318028,153.126222,dog,faecal,12
+Central West,centralwest,-33.278076,149.107082,dog,faecal,29
+Illawarra,illawarra,-34.463818,150.861305,dog,faecal,20
+Perth,perth,-31.865426,115.894666,dog,faecal,28
+Hope Vale,hopevale,-15.294031,145.109493,dog,rectal_swab,27
+Hope Vale,hopevale,-15.294031,145.109493,dog,nasal_swab,23
+Dingo Rescue,dingorescue,-32.358056,115.994722,dingo,faecal,3
+Myall Lake,myalllakedingo,-32.489401,152.267191,dingo,tissue,11
+Myall Lake,myalllakedingo,-32.489401,152.267191,dingo,faecal,2
